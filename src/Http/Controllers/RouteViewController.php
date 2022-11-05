@@ -2,8 +2,8 @@
 
 namespace Riza\LookRoute\Http\Controllers;
 
-use App\Http\Controllers\Controller;
 use Illuminate\Support\Facades\Route;
+use Illuminate\Routing\Controller;
 
 class RouteViewController extends Controller
 {
